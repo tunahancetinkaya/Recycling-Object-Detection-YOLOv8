@@ -1,6 +1,6 @@
 # Recycling Object Detection with YOLOv8
 ## Getting Started
-• pip install requirements
+• pip install requirements.txt   
 • python flask_app.py
 ## Data Set 
 ![dataset2](https://github.com/eminebusrasalihoglu/YOLOv8-Object-Detection/assets/58669314/ef9db7eb-b87e-4e4f-b707-89cee0633ee0)
